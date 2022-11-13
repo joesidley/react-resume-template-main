@@ -137,3 +137,4 @@ const Testimonial: FC<{testimonial: Testimonial; isActive: boolean}> = memo(
 );
 
 export default Testimonials;*/
+export{};
