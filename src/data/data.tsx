@@ -241,7 +241,7 @@ export const experience: TimelineItem[] = [
     title: 'Mathematics and Physical Science Tutor',
     content: (
       <p>
-        I have been tutoring grade 7-12s in Mathematics, Advanced Programme Mathematics, Physics and Chemistry since my second year of univeristy. This teaching position gave be a good sense of responsibility and helped my ability to explain concepts. I also often worked with students in need through the Students for a Better Future initiative started by Get Smart which was extremely rewarding.
+        I have been tutoring grade 7-12s in Mathematics, Advanced Programme Mathematics, Physics and Chemistry since my second year of univeristy. This teaching position gave me a good sense of responsibility and helped my ability to explain concepts. I also often worked with students in need through the Students for a Better Future initiative started by Get Smart which was extremely rewarding.
       </p>
     ),
   },
