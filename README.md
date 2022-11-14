@@ -8,10 +8,10 @@ If you would like to bootstrap this code yourself, download the file, and move i
 
 then call yarn install
 
-then yarn run
+then yarn run dev
 
 then navigate to localhost:3000
 
 
 
-NB: I ran out of time to add the "Get In Touch" email form sending functionality so that is as of yet non-functional
+NB: I ran out of time to add the "Get In Touch" email form sending functionality (due to university commitments to do with my final exam) so that is as of yet non-functional
