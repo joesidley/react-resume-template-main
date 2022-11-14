@@ -13,3 +13,5 @@ then yarn run
 then navigate to localhost:3000
 
 
+
+NB: I ran out of time to add the "Get In Touch" email form sending functionality so that is as of yet non-functional
