@@ -4,7 +4,7 @@
 
 View a [live demo here.](https://react-resume-template-main-zeta.vercel.app/)
 
-If you would like to bootstrap this code yourself, download the file, and move in the command line to the file location
+If you would like to bootstrap this code yourself, download the entire repo, and move in the command line to the 'react-resume-template-main' directory location
 
 then call yarn install
 
