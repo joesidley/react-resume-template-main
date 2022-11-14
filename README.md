@@ -2,7 +2,7 @@
 
 
 
-View a [live demo here.](https://react-resume-template-main-zeta.vercel.app/)
+View a [live demo here.](https://react-resume-template-main-zeta.vercel.app/) - deployed on vercel
 
 If you would like to bootstrap this code yourself, download the entire repo, and move in the command line to the 'react-resume-template-main' directory location
 
